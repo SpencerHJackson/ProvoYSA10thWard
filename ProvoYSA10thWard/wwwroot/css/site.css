@@ -25,6 +25,10 @@ body {
     background-color: #3DB34B;
 }
 
+.isles-bg-green:hover {
+    background-color: #27a849;
+}
+
 .isles-bg-blue {
     background-color: #0F76BA;
 }
