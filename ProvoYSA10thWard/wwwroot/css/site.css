@@ -6,6 +6,15 @@ html {
   html {
     font-size: 16px;
   }
+  .small-container {
+      display: none;
+  }
+}
+
+@media (max-width: 768px) {
+    .large-container {
+        display: none;
+    }
 }
 
 html {
@@ -33,6 +42,6 @@ body {
     background-color: #0F76BA;
 }
 
-.homepage-photo {
+.homepage-media {
     max-width: 90%;
 }
